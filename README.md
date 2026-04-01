@@ -30,4 +30,4 @@ Design completed, currently working on further miniaturization and optimization.
 
 ## Tools Used
 - EasyEDA
-- ESP32-S3
+- ESP32-S3R8
