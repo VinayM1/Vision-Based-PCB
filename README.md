@@ -1,5 +1,3 @@
-# Custom-Vision-Based-PCB-project-
-
 # Vision-Based Embedded PCB
 
 ## 📌 Introduction
