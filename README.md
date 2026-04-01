@@ -1,11 +1,4 @@
 # Vision-Based Embedded PCB
-<img width="800" height="608" alt="Screenshot 2026-03-31 055148" src="https://github.com/user-attachments/assets/7312ccb3-3f32-4273-9fdc-6e6a5c0d49c7" />
-<img width="864" height="585" alt="Screenshot 2026-03-31 055103" src="https://github.com/user-attachments/assets/ffe54031-7acc-474e-b52c-13385b502dc8" />
-
-
-
-
-
 
 ## 📌 Introduction
 This project is a custom-designed Printed Circuit Board (PCB) that integrates a microcontroller, camera interface, power management system, and communication modules into a compact and practical layout.
